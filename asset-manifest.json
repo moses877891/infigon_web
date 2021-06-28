@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/infigon_web/static/css/main.cc158527.chunk.css",
+    "main.js": "/infigon_web/static/js/main.46a93519.chunk.js",
+    "main.js.map": "/infigon_web/static/js/main.46a93519.chunk.js.map",
+    "runtime-main.js": "/infigon_web/static/js/runtime-main.8730795c.js",
+    "runtime-main.js.map": "/infigon_web/static/js/runtime-main.8730795c.js.map",
+    "static/css/2.fb17aa6d.chunk.css": "/infigon_web/static/css/2.fb17aa6d.chunk.css",
+    "static/js/2.bda89ed2.chunk.js": "/infigon_web/static/js/2.bda89ed2.chunk.js",
+    "static/js/2.bda89ed2.chunk.js.map": "/infigon_web/static/js/2.bda89ed2.chunk.js.map",
+    "static/js/3.96d676f8.chunk.js": "/infigon_web/static/js/3.96d676f8.chunk.js",
+    "static/js/3.96d676f8.chunk.js.map": "/infigon_web/static/js/3.96d676f8.chunk.js.map",
+    "index.html": "/infigon_web/index.html",
+    "static/css/2.fb17aa6d.chunk.css.map": "/infigon_web/static/css/2.fb17aa6d.chunk.css.map",
+    "static/css/main.cc158527.chunk.css.map": "/infigon_web/static/css/main.cc158527.chunk.css.map",
+    "static/js/2.bda89ed2.chunk.js.LICENSE.txt": "/infigon_web/static/js/2.bda89ed2.chunk.js.LICENSE.txt",
+    "static/media/TASK_-_REACT1-removebg-preview.465fd3bc.png": "/infigon_web/static/media/TASK_-_REACT1-removebg-preview.465fd3bc.png",
+    "static/media/infigon-logo-new.cdd0b9fc.png": "/infigon_web/static/media/infigon-logo-new.cdd0b9fc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8730795c.js",
+    "static/css/2.fb17aa6d.chunk.css",
+    "static/js/2.bda89ed2.chunk.js",
+    "static/css/main.cc158527.chunk.css",
+    "static/js/main.46a93519.chunk.js"
+  ]
+}
