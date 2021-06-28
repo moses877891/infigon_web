@@ -17,7 +17,7 @@ const Navbar = () => {
                         <Link className="txt" to="/home">Home</Link>
                     </li>
                     <li className="nav-item">
-                        <Link className="txt active" to="/">How we help</Link>
+                        <Link className="txt active" to="/infigon_web">How we help</Link>
                     </li>
                     <li className="nav-item">
                         <Link className="txt" to="/programs">Programs</Link>
