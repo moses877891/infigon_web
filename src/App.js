@@ -13,7 +13,7 @@ function App() {
     <div>
       <Navbar />
       <Switch>
-        <Route exact path='/' component={HomePage} />
+        <Route exact path='/infigon_web' component={HomePage} />
         <Route exact path='/home' component={NotAvailable} />
         <Route exact path='/programs' component={NotAvailable} />
         <Route exact path='/faqs' component={NotAvailable} />
