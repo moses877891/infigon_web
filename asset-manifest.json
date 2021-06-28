@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/infigon_web/static/css/main.cc158527.chunk.css",
-    "main.js": "/infigon_web/static/js/main.46a93519.chunk.js",
-    "main.js.map": "/infigon_web/static/js/main.46a93519.chunk.js.map",
+    "main.js": "/infigon_web/static/js/main.a4afd0db.chunk.js",
+    "main.js.map": "/infigon_web/static/js/main.a4afd0db.chunk.js.map",
     "runtime-main.js": "/infigon_web/static/js/runtime-main.8730795c.js",
     "runtime-main.js.map": "/infigon_web/static/js/runtime-main.8730795c.js.map",
     "static/css/2.fb17aa6d.chunk.css": "/infigon_web/static/css/2.fb17aa6d.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.fb17aa6d.chunk.css",
     "static/js/2.bda89ed2.chunk.js",
     "static/css/main.cc158527.chunk.css",
-    "static/js/main.46a93519.chunk.js"
+    "static/js/main.a4afd0db.chunk.js"
   ]
 }
