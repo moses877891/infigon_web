@@ -1,0 +1,12 @@
+.r {
+  position: relative;
+  max-width: 100%;
+  height: auto;
+}
+
+.rel {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 50px;
+}

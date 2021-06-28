@@ -1,0 +1,33 @@
+.bc {
+  background-color: rgb(47, 55, 120);
+}
+
+b {
+  font-size: 20px;
+  margin-left: 10px;
+  color: rgb(74, 198, 199);
+}
+
+.vline {
+  border-left: 6px solid rgb(47, 95, 137);
+  height: 500px;
+  position: static;
+  left: 50%;
+  margin-left: 90%;
+  top: 0;
+}
+
+.res {
+  max-width: 100%;
+  height: auto;
+}
+
+.vcenter {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.hid {
+  overflow: hidden;
+}

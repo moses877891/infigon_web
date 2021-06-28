@@ -1,0 +1,38 @@
+.resp {
+  width: 150px;
+  height: auto;
+}
+
+.btn {
+  background-color: rgb(47, 55, 120);
+  color: white;
+  margin-left: 2cm;
+  border-radius: 4em;
+}
+
+.btn:hover {
+  background-color: blue;
+  color: rgb(202, 202, 202);
+}
+
+.txt {
+  color: rgb(47, 55, 120);
+  text-decoration: none;
+}
+
+.txt:-webkit-any-link:hover {
+  border-bottom: 2px solid rgb(47, 55, 120);
+}
+
+.active {
+  padding-bottom: 2px;
+  border-bottom: 2px solid rgb(47, 55, 120);
+}
+
+.nav.navbar-nav {
+  margin-left: auto;
+}
+
+.nav-item {
+  margin-left: 2cm;
+}
